@@ -6,7 +6,7 @@ const RestaurantCard = (props) => {
   const [restaurants, setRestaurants] = useState([
     {
       id: 1,
-      name: "Shirvanshah Museum",
+      name: "Shirvanshah",
       rating: 4.8,
       cuisine: "Azerbaijan",
       img: "https://kongres-magazine.eu/wp-content/uploads/2019/11/shirvansah_resturant_baku2.jpg?x27798",
