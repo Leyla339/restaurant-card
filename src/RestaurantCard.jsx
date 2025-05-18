@@ -8,7 +8,7 @@ const RestaurantCard = (props) => {
       id: 1,
       name: "Shirvanshah",
       rating: 4.8,
-      cuisine: "Azerbaijan",
+      cuisine: "Azerbaijani",
       img: "https://kongres-magazine.eu/wp-content/uploads/2019/11/shirvansah_resturant_baku2.jpg?x27798",
     },
     {
